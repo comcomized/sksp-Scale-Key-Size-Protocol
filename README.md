@@ -13,4 +13,4 @@
 	- r(u,n) is the encrypted k(n) with the public-key(n) of the user u, (default rsa), 
 	-  b(u) is a block of all r(u,n) per u starting with the size of all b(u),
 	- only m(N-1)  after all b(u) are kept.
-![](/home/a/Desktop/qt/projects/for/sksp.png){:style="float: right;"} 
+![](sksp.png){:style="float: right;"} 
