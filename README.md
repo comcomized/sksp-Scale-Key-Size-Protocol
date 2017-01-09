@@ -2,8 +2,8 @@
 ###Scale Key Size Protocol (sksp) -
 #### making the strength measured by key size a choice of the user - under [humanitarian agpl](http://namzezam.wikidot.com/humanitarian-agpl-license).</center>
 
-- Problem: increasing privacy strength, even though the a/symmetric key sizes are somewhat limited by default/regulation/implementation etc (to decrease the ruler power of the statistics feeding the AI-big-brother-golem serving the corporations-and-governments two-heads-hydra capturing humanity in disasters).
-- Solution: letting the user to chose N to magnify the strength derived from key size, such that
+- **Problem:** increasing privacy strength, even though the a/symmetric key sizes are somewhat limited by default/regulation/implementation etc (to decrease the ruler power of the statistics feeding the AI-big-brother-golem serving the corporations-and-governments two-heads-hydra capturing humanity in disasters).
+- **Solution:** letting the user to chose N to magnify the strength derived from key size, such that
 	- N can be chosen for specific case of communication, messages and participants etc, while being demonstrated as weight of keys measured by the required time to compute with these keys in some specific environment;
 	- N is the number of rounds to re-encrypt with different symmetric for asymmetric keys of sevral users, where
 	- 0 <= n < N,
